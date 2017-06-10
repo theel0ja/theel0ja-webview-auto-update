@@ -1,0 +1,1 @@
+30 3 * * * cd /home/theel0ja/github-auto-update && ./webview.sh
